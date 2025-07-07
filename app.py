@@ -37,7 +37,7 @@ html_code = """
   </style>
 </head>
 <body>
-  <h1>Welcome Back to the Farm, Naomi!</h1>
+
 </body>
 </html>
 """
